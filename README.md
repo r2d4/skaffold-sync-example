@@ -1,0 +1,1 @@
+You can read the instructions for using this repository at [https://matt-rickard.com/fast-kubernetes-development/](https://matt-rickard.com/fast-kubernetes-development/)
